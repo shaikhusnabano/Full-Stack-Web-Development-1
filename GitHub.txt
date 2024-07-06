@@ -1,0 +1,9 @@
+Git Hub
+git init
+git config --global user.email "emailId"
+git config --global user.name "name"
+git add filename  // git add*
+git commit -m "message"
+git remote add origin httpsURL
+git branch -m main
+git push origin main --force
